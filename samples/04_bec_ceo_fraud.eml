@@ -1,0 +1,21 @@
+Received: from mx.example-mail.net ([192.0.2.55]) by mx.fa-corp.example with
+ ESMTPS; Tue, 10 Nov 2026 09:41:00 +0000
+Authentication-Results: mx.fa-corp.example; spf=pass smtp.mailfrom=gmail.com;
+ dkim=pass header.d=gmail.com; dmarc=pass
+From: =?utf-8?b?0J/QtdGC0YDQvtCyINCQ0L3QtNGA0LXQuSDQk9C10L3QtdGA0LDQu9GM0L0=?=
+ =?utf-8?b?0YvQuSDQtNC40YDQtdC60YLQvtGA?= <petrov.ceo.office@gmail.com>
+To: k.rusakov@fa-corp.example
+Subject: =?utf-8?b?0KHRgNC+0YfQvdC+OiDQvtC/0LvQsNGC0LAg0L/QvtGB0YLQsNCy0Yk=?=
+ =?utf-8?b?0LjQutGD?=
+Date: Tue, 10 Nov 2026 09:41:00 +0000
+Message-ID: <d4eed5fdd663@gmail.com>
+Reply-To: a.petrov.director@proton.me
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+0JTQvtCx0YDRi9C5INC00LXQvdGMLgrQodGA0L7Rh9C90L4g0L3Rg9C20L3QviDQvtC/0LvQsNGC
+0LjRgtGMINGB0YfRkdGCINC90L7QstC+0LzRgyDQv9C+0YHRgtCw0LLRidC40LrRgyDQtNC+IDE1
+OjAwLCDRgNC10LrQstC40LfQuNGC0Ysg0L/RgNC40YjQu9GOINC+0YLQtNC10LvRjNC90L4uINCv
+INC90LAg0YHQvtCy0LXRidCw0L3QuNC4LCDQvdC1INC30LLQvtC90LjRgtC1IOKAlCDQvtGC0LLQ
+tdGH0LDQudGC0LUg0YHRjtC00LAuCtCQLiDQn9C10YLRgNC+0LIK

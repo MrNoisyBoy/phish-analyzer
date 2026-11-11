@@ -1,0 +1,48 @@
+Received: from mx.example-mail.net ([203.0.113.200]) by mx.fa-corp.example
+ with ESMTPS; Tue, 10 Nov 2026 09:41:00 +0000
+Authentication-Results: mx.fa-corp.example; spf=softfail
+ smtp.mailfrom=sberbank-0nline.ru; dkim=none; dmarc=fail
+ header.from=sberbank-0nline.ru
+From: =?utf-8?b?0KHQsdC10YDQkdCw0L3QuiDQntC90LvQsNC50L0=?=
+ <security@sberbank-0nline.ru>
+To: k.rusakov@fa-corp.example
+Subject: =?utf-8?b?0JLQsNGI0LAg0LrQsNGA0YLQsCDQt9Cw0LHQu9C+0LrQuNGA0L7QstCw?=
+ =?utf-8?b?0L3QsCDigJQg0L/QvtC00YLQstC10YDQtNC40YLQtSDQtNCw0L3QvdGL0LU=?=
+Date: Tue, 10 Nov 2026 09:41:00 +0000
+Message-ID: <0917a7e602d1@sberbank-0nline.ru>
+Reply-To: support@helpdesk-bank.top
+Return-Path: <mailer@bulk-sender.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7907795451343266681=="
+
+--===============7907795451343266681==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+0KPQstCw0LbQsNC10LzRi9C5INC60LvQuNC10L3RgiEg0JfQsNGE0LjQutGB0LjRgNC+0LLQsNC9
+0LAg0L/QvtC00L7Qt9GA0LjRgtC10LvRjNC90LDRjyDQvtC/0LXRgNCw0YbQuNGPLiDQmtCw0YDR
+gtCwINC30LDQsdC70L7QutC40YDQvtCy0LDQvdCwLgrQn9C+0LTRgtCy0LXRgNC00LjRgtC1INC0
+0LDQvdC90YvQtSDQsiDRgtC10YfQtdC90LjQtSAyNCDRh9Cw0YHQvtCyOiBodHRwOi8vc2JlcmJh
+bmstMG5saW5lLnJ1LnZlcmlmeS1hY2NvdW50LnRvcC9sb2dpbgo=
+
+--===============7907795451343266681==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PHA+0KPQstCw0LbQsNC10LzRi9C5INC60LvQuNC10L3RgiE8L3A+CjxwPtCX0LDRhNC40LrRgdC4
+0YDQvtCy0LDQvdCwIDxiPtC/0L7QtNC+0LfRgNC40YLQtdC70YzQvdCw0Y8g0L7Qv9C10YDQsNGG
+0LjRjzwvYj4g0L/QviDQstCw0YjQtdC5INC60LDRgNGC0LUuINCa0LDRgNGC0LAg0LLRgNC10LzQ
+tdC90L3QviDQt9Cw0LHQu9C+0LrQuNGA0L7QstCw0L3QsC48L3A+CjxwPtCn0YLQvtCx0Ysg0LjQ
+t9Cx0LXQttCw0YLRjCDRgdC/0LjRgdCw0L3QuNGPLCA8Yj7RgdGA0L7Rh9C90L48L2I+INC/0L7Q
+tNGC0LLQtdGA0LTQuNGC0LUg0LTQsNC90L3Ri9C1INCyINGC0LXRh9C10L3QuNC1IDI0INGH0LDR
+gdC+0LIg4oCUINCy0L7QudC00LjRgtC1INCyINC70LjRh9C90YvQuSDQutCw0LHQuNC90LXRgjo8
+L3A+CjxwPjxhIGhyZWY9Imh0dHA6Ly9zYmVyYmFuay0wbmxpbmUucnUudmVyaWZ5LWFjY291bnQu
+dG9wL2xvZ2luIj5odHRwczovL29ubGluZS5zYmVyYmFuay5ydS9sb2dpbjwvYT48L3A+CjxwPtCV
+0YHQu9C4INGB0YHRi9C70LrQsCDQvdC1INC+0YLQutGA0YvQstCw0LXRgtGB0Y86IDxhIGhyZWY9
+Imh0dHBzOi8vYml0Lmx5LzN4QW1QbGUiPmJpdC5seS8zeEFtUGxlPC9hPjwvcD4KPHA+0J/QvtGC
+0YDQtdCx0YPRjtGC0YHRjyDQvdC+0LzQtdGAINC60LDRgNGC0YssIENWViDQuCDQutC+0LQg0LjQ
+tyDQodCc0KEuPC9wPgo=
+
+--===============7907795451343266681==--
